@@ -21,7 +21,7 @@ Work experience
 
 Skills and Languages
 ======
-* English TOEFL Reading 25 Listening 25 Speaking ? Writing ?
+* English TOEFL Reading 25 Listening 25 Speaking 21 Writing 25 from 2020-08-06
 * LateX
 * matplotlib, numpy, pandas
 * PyTorch
