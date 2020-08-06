@@ -1,6 +1,7 @@
 ---
 title: "Scale-Aware Segmentation of Multiple-Scale Objects in Aerial Images"
 collection: 2020 ICC Big Data Track
+excerpt: ''
 permalink: /publication/2020-06-01-paper-title-number-2
 date: 2020-06-01
 venue: 'ICC Big Data Track'
