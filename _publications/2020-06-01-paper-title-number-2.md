@@ -2,10 +2,9 @@
 title: "Scale-Aware Segmentation of Multiple-Scale Objects in Aerial Images"
 collection: 2020 ICC Big Data Track
 permalink: /publication/2020-06-01-paper-title-number-2
-excerpt: ''
 date: 2020-06-01
 venue: 'ICC Big Data Track'
-paperurl: ''
+
 ---
 
 Inspired by attention mechanism and deformable convolution, this paper proposed a Scale-Aware module allowing network better recognize multiple-scale(large, medium, small) objects in aerial images. Additionally, our method can also do well when recognizing objects with oblong shape.
