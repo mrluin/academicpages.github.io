@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. Noreast Forestry Univeristy, 2014
-* M.S. Noreast Forestry Univeristy, 2018
+* B.S. Noreast Forestry Univeristy, GPA 3.57, 2014 
+* M.S. Noreast Forestry Univeristy, GPA 3.65, 2018
 * Ph.D ???
 
 Work experience
