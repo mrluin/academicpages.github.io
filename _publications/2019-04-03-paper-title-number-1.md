@@ -5,7 +5,6 @@ permalink: /publication/2019-04-03-paper-title-number-1
 excerpt: ''
 date: 2019-04-03
 venue: 'IEEE ACCESS'
-paperurl: ''
 
 ---
 By using the trait of depth-wise convolution and factorized convolution, which can decompose convolution process into two phases and the filter into two part respectively, and following the principles proposed in Enet for efficient networks, this paper proposed an efficient network used in segmentation of remote sensing images, compared with other networks on the same dataset, our method achieved competitive results with much lower amount of parameters and faster inference speed.
