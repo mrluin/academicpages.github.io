@@ -16,8 +16,8 @@ Looking for Ph.D. metors
 
 Awards and Honors
 ======
-2019 National Scholarship
-2015-2016 Merit Students
+* 2019 National Scholarship
+* 2015-2016 Merit Students
 
 News
 ======
